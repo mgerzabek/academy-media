@@ -1,0 +1,24 @@
+{
+	"title": "",
+	"kicker": "",
+	"description": null,
+	"image": null,
+	"has_audio": false,
+	"has_image": false,
+	"has_transcript": false,
+	"aspect_ratio": null,
+	"duration": 0,
+	"resolution": null,
+	"source": "Survival.at®",
+	"source_url": "https://survival.at",
+	"license": "Alle Rechte vorbehalten",
+	"license_url": null,
+	"via": null,
+	"via_url": null,
+	"markers": [
+		{
+			"time": 0,
+			"text": ""
+		}
+	]
+}
