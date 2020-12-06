@@ -5,7 +5,7 @@
 	"image": null,
 	"has_image": false,
 	"has_transcript": false,
-	"duration": 0,
+	"runtime": null,
 	"sample_rate": null,
 	"source": "Survival.at®",
 	"source_url": "https://survival.at",
