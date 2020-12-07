@@ -5,6 +5,7 @@
 	"image": null,
 	"has_image": false,
 	"pages": 0,
+	"downloadable": true,
 	"source": "Storfyfaktor.de®",
   "source_url": "https://storyfaktor.de",
 	"license": "Alle Rechte vorbehalten",
